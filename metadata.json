@@ -1,0 +1,7 @@
+{
+  "name": "ESPART Modernes Architekturstudio",
+  "description": "Ein super-modernes, KI-gestütztes Schaufenster für Architektur und Innenarchitektur, inspiriert von ESPART Architekten.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
